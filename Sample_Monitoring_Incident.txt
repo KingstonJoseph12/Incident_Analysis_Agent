@@ -1,0 +1,2 @@
+Critical  alert [Alert4760849]  . Created on  CI: [Commercial Account Management 1.0 -PROD] . Metric name is [] of type [Host or monitoring unavailable] from data source [DYNATRACE].  
+Total impacted services by the CI: [Commercial Account Management 1.0 -PROD] are 2.

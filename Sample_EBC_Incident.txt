@@ -1,0 +1,33 @@
+Hi Team,
+We have received an incident where the insured contact information for policies #52SBCTS4UKB, #52SBCTS3XFN, #52SBCTS8S5H, #52SBCTS6MXM are displayed incorrectly at EBC. As per the agent, the insured contact details should be as below which are correctly showing in MyAccount but at EBC they are receiving details of “Erica Drek”. We could see that we are receiving the incorrect information from the below mentioned MDM service. Please find the attached screenshots, Request and Response for the same. Could you please look into the issue and let us know in case of any concerns?
+Policy: 52SBCTS4UKB
+Correct contact details:
+Michael Jack
+808-753-6868
+mkJack@aol.com
+Policy: 52SBCTS3XFN
+Correct contact details:
+Jack Spar
+954-801-0450
+jackspar@gmail.com
+Policy: 52SBCTS8S5H
+Correct contact details:
+David Fincher
+206-354-0401
+DAVID@THEFIGHTCLUB.COM
+Policy: 52SBCTS6MXM
+Correct contact details:
+Ed Murphy
+425-478-2521
+ed@jmmurphyinc.com
+Incorrect contact details:
+Erica Drek
+Phone
+206-612-5385 (Mobile )
+Email:ericadrek@gmail.com
+Endpoint API - https://APIs-internal.thehartford.com/edo/retrieveaiforsldcpolicies/v1/policy
+Thanks,
+Mahaveer
+EBC – Production Support
+The Hartford | Cognizant Technology Solutions
+📧M@thehartford.com
